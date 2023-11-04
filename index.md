@@ -74,7 +74,7 @@ By means of <b>inculcation</b> (see "Lingua Tertii Imperii") OpenAI has achieved
 
 As a 'null hypothesis' demonstration, here's the response of the model _without_ the 'system' instruction.
 
-```yaml
+```javascript
 {
     "model": "gpt-3.5-turbo-0613",
     "messages": [
