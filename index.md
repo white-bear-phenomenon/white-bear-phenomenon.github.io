@@ -19,7 +19,7 @@ Can we do it with the help of Language Models? Will there be a 'white bear pheno
 
 Let's try to 'erase' white bears from the 'mind' of OpenAI chat models. This is the last available <b>GPT-3.5-0613</b> chat completion model that has "system" role.
 
-```yaml
+```json
   {
       "model": "gpt-3.5-turbo-0613",
       "messages": [
